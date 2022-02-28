@@ -12,4 +12,3 @@ jobs:
         with:
           project-name: Git Visual
           column-name: Backlog
-          project: ${{ secrets.GITHUB_TOKEN }}
